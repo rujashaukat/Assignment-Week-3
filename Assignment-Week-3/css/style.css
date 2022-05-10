@@ -1,0 +1,22 @@
+.menu-title{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#chicken-box {
+    background-color: lightblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#beef-box{
+    background-color: lightgreen;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#sushi-box{
+    background-color: lightcyan;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body { 
+	padding-top: 70px; 
+}
